@@ -10,5 +10,5 @@ Feature 15 base conflict line 9
 Base file content line 10
 Base file content line 11
 Base file content line 12
-Base file content line 13
+Main trunk conflict line 13
 Base file content line 14
