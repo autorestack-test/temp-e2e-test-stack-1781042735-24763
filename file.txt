@@ -6,9 +6,9 @@ Main conflicting content line 5 for scenario 5
 Base file content line 6
 Main conflicting change line 7
 Feature 17 content line 8
-Feature 15 base conflict line 9
+Feature 18 base conflict line 9
 Base file content line 10
 Base file content line 11
 Base file content line 12
-Base file content line 13
+Feature 18 trunk conflict line 13
 Base file content line 14
