@@ -10,5 +10,5 @@ Conflict resolved on feature18
 Base file content line 10
 Base file content line 11
 Base file content line 12
-Feature 18 trunk conflict line 13
+Conflict resolved on feature18
 Base file content line 14
